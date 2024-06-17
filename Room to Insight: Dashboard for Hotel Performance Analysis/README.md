@@ -43,14 +43,6 @@ The Hospitality Domain Data Analysis project aims to analyze and visualize data 
 
 ### Instructions
 
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/veerabhmahadik/hospitality-domain-data-analysis.git
-   ```
-2. **Navigate to the Project Directory**
-   ```sh
-   cd hospitality-domain-data-analysis
-   ```
 1. **Load the Data Files**
    - Ensure the following CSV files are in the project directory from the 'data' folder:
      - `dim_date.csv`
