@@ -1,6 +1,4 @@
-Here is the complete README.md file for your repository:
 
----
 
 # Hotel Performance and T20 World Cup Analysis
 
