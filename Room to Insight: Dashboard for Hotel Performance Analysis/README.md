@@ -3,7 +3,7 @@
 
 ## Description
 
-The Hospitality Domain Data Analysis project aims to analyze and visualize data from the hospitality industry using Power BI. This project involves examining various performance metrics of properties such as revenue, occupancy rates, average daily rates, and customer ratings. The goal is to provide insights that can help in understanding market trends, customer preferences, and overall performance of hospitality properties.
+This project aims to analyze and visualize data from the hospitality industry using Power BI. This project involves examining various performance metrics of properties such as revenue, occupancy rates, average daily rates, and customer ratings. The goal is to provide insights that can help in understanding market trends, customer preferences, and the overall performance of hospitality properties.
 
 ### Usage Examples
 
